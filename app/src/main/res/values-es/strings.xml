@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SPA - Tip Calc - Raj Deliwala</string>
+    <string name="mainTitle">SPA - Main Menu</string>
+    <string name="tipTitle">SPA - Calculate Tip</string>
+    <string name="helpTitle">SPA - Help</string>
+    <string name="billTitle">SPA - Bill amount</string>
+    <string name="speedTitle">SPA - Speed of service</string>
+    <string name="speedCheck">SPA - Use speed of service</string>
+    <string name="friendlinessTitle">SPA - Friendliness of server</string>
+    <string name="friendlinessCheck">SPA - Use friendliness of service</string>
+    <string name="orderTitle">SPA - Order accuracy</string>
+    <string name="orderCheck">SPA - Use order accuracy</string>
+    <string name="tipFinal">SPA - Tip</string>
+    <string name="helpInformation">SPA This tip calculator is on the basis of a maximum tip of 15 percent. While all boxes are unchecked the default tip is 15 percent. If only one box is checked that one rating is out of 15 percent. The edittext is also fixed so that you being the user do not end up using a word or 0 as the bill amount.Do not think you can break me user.</string>
+    <string name="listTitle">SPA - Show Tip List</string>
+    <string name="restaurantDetailTextView">SPA - Restaurant Name</string>
+    <string name="tipAmountDetailTextView">SPA - Tip Amount</string>
+    <string name="tipPercentDetailTextView">SPA - Tip Pct</string>
+    <string name="speedDetailTextView">SPA - Speed</string>
+    <string name="friendDetailTextView">SPA - Friendliness</string>
+    <string name="orderDetailTextView">SPA - Order Accuracy</string>
+    <string name="RestaurantNameTextView">SPA - Restaurant Name</string>
+    <string name="tipSaveButton">Save</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ENG - Tip Calc - Raj Deliwala</string>
+    <string name="mainTitle">ENG - Main Menu</string>
+    <string name="tipTitle">ENG - Calculate Tip</string>
+    <string name="helpTitle">ENG - Help</string>
+    <string name="billTitle">ENG - Bill amount</string>
+    <string name="speedTitle">ENG - Speed of service</string>
+    <string name="speedCheck">ENG - Use speed of service</string>
+    <string name="friendlinessTitle">ENG - Friendliness of server</string>
+    <string name="friendlinessCheck">ENG - Use friendliness of service</string>
+    <string name="orderTitle">ENG - Order accuracy</string>
+    <string name="orderCheck">ENG - Use order accuracy</string>
+    <string name="tipFinal">ENG - Tip</string>
+    <string name="helpInformation">EGN This tip calculator is on the basis of a maximum tip of 15 percent. While all boxes are unchecked the default tip is 15 percent. If only one box is checked that one rating is out of 15 percent. The edittext is also fixed so that you being the user do not end up using a word or 0 as the bill amount.Do not think you can break me user.</string>
+    <string name="listTitle">ENG - Show Tip List</string>
+    <string name="restaurantDetailTextView">ENG - Restaurant Name</string>
+    <string name="tipAmountDetailTextView">ENG - Tip Amount</string>
+    <string name="tipPercentDetailTextView">ENG - Tip Pct</string>
+    <string name="speedDetailTextView">ENG - Speed</string>
+    <string name="friendDetailTextView">ENG - Friendliness</string>
+    <string name="orderDetailTextView">ENG - Order Accuracy</string>
+    <string name="RestaurantNameTextView">ENG - Restaurant Name</string>
+    <string name="tipSaveButton">Save</string>
+</resources>
